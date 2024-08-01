@@ -74,7 +74,8 @@ https://www.youtube.com/watch?v=iDxFz58kxjQ
 - 5주차(7.18~7.25): 폴리싱 및 추가 기능 구현
 
 ## 포스터
-[여기 포스터 삽입]
+![image](https://github.com/user-attachments/assets/69e93ecd-e037-4140-8fed-d3cd3ef48f17)
+
 
 
 
