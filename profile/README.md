@@ -44,13 +44,22 @@
    [움짤 넣을 예정]
 
 ## 기술 스택
-- [프론트엔드]()
+- [프론트엔드](https://github.com/VVITNESS-ME/HourglassPlannerFront)
 
-- [백엔드]()
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+
+- [백엔드](https://github.com/VVITNESS-ME/HourglassPlannerBack)
+
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
 
 - 데이터베이스
 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 - 형상관리
+
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 ## 아키텍쳐
 ![image](https://github.com/user-attachments/assets/952edb65-e1d9-4d33-a61b-86ff583e85ba)
