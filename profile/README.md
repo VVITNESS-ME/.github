@@ -2,11 +2,11 @@
 크래프톤 정글 5기 나만무 프로젝트입니다.
 
 ## 팀원소개
-- [김회일](): 팀장, 미디어파이프, UI  
-- [김민중](): 
-- [구자건]():
-- [황교준]():
-- [손찬호]():
+- [김회일](https://github.com/KimHoeil): 팀장, 미디어파이프, UI  
+- [김민중](https://github.com/MinjungKim5): 
+- [구자건](https://github.com/AruJoy):
+- [황교준](https://github.com/kyo-hwang):
+- [손찬호](https://github.com/PenLoo98):
 
 ## 목차
 - [프로젝트 개요](#프로젝트-개요)
