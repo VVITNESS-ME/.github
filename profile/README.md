@@ -25,29 +25,30 @@
 
 ## 기능 소개
 - **모래시계 타이머 + Todolist** : 모래시계 타이머로 빠른 시작을 할 수있고, 할 일과 연동하여 기록을 저장할 수 있습니다.
-  ![모래시계 완료](https://github.com/user-attachments/assets/1bdb0ac9-2074-4f3b-9c0e-3c1517bb256f)
-  ![할일 추가](https://github.com/user-attachments/assets/732101de-c1c8-47fd-bd9a-acfc627deff8)
-  ![할일 완료](https://github.com/user-attachments/assets/b4b11ad7-b58e-4fd1-9cf8-685491147e2a)
+  - ![모래시계 완료](https://github.com/user-attachments/assets/1bdb0ac9-2074-4f3b-9c0e-3c1517bb256f)
+  - ![할일 추가](https://github.com/user-attachments/assets/732101de-c1c8-47fd-bd9a-acfc627deff8)
+  - ![할일 완료](https://github.com/user-attachments/assets/b4b11ad7-b58e-4fd1-9cf8-685491147e2a)
 
 
 - **같이하기 화상채팅방**: 같은 목표를 가진 사용자와 함께할 수 있는 실시간 화상 채팅방을 생성하고 참여할 수 있습니다.
-  ![함께하기 압장](https://github.com/user-attachments/assets/eb7952af-4e98-4fce-93c5-840c71b3bbde)
+  - ![함께하기 압장](https://github.com/user-attachments/assets/eb7952af-4e98-4fce-93c5-840c71b3bbde)
 
 - **졸음 및 자리이탈 감지**: 사용자의 졸음 및 자리이탈을 감지하여 모래시계 타이머를 자동으로 일시정지합니다. 졸음 감지시 엽기 아바타를 생성하여 다른 사용자에게 보이도록합니다.
-  ![졸음감지](https://github.com/user-attachments/assets/9eb41135-8ed1-479f-a089-f4cac8b44473)
+  - ![졸음감지](https://github.com/user-attachments/assets/9eb41135-8ed1-479f-a089-f4cac8b44473)
   
 - **활동기록 통계 제공**: 카테고리별 일간/주간/월간 활동시간 통계를 제공하고, 졸음 및 자리이탈 시간을 계산해서 집중도를 제공합니다.
-  ![콘솔 todo list](https://github.com/user-attachments/assets/b34574a3-c67b-4d7f-be30-bf1922785f84)
-  ![다이어리 ui](https://github.com/user-attachments/assets/78d52a79-b6b5-4f9b-a9a5-db2f9c12cea9)
-  ![카테고리 추가 1](https://github.com/user-attachments/assets/226813cc-908f-4549-9aed-051c548dd0f4)
-  ![카태고리 추가 2](https://github.com/user-attachments/assets/37d6ec03-73ad-4f34-97b1-3cfb055e8dc1)
+  - ![콘솔 todo list](https://github.com/user-attachments/assets/b34574a3-c67b-4d7f-be30-bf1922785f84)
+  - ![다이어리 ui](https://github.com/user-attachments/assets/78d52a79-b6b5-4f9b-a9a5-db2f9c12cea9)
+  - ![카테고리 추가 1](https://github.com/user-attachments/assets/226813cc-908f-4549-9aed-051c548dd0f4)
+  - ![카태고리 추가 2](https://github.com/user-attachments/assets/37d6ec03-73ad-4f34-97b1-3cfb055e8dc1)
 
 - **AI 일지 작성**: 하루동안 한 일의 메모를 토대로 AI가 일지 작성을 보조해줍니다.
-  ![Ai 일지 작성1](https://github.com/user-attachments/assets/8ca422a2-30ff-4e8c-ab4e-22c1235da742)
-  ![Uploading Ai 일지작성 2.gif…]()
+  - ![Ai 일지 작성1](https://github.com/user-attachments/assets/8ca422a2-30ff-4e8c-ab4e-22c1235da742)
+  - ![Ai 일지작성 2](https://github.com/user-attachments/assets/9f8baf65-a65b-40fc-aaf7-e751a76bc0e4)
+
 
 - **캘린더 제공**: 캘린더에 간편하게 일정을 등록하면 D-DAY가 빠른순으로 자동 정렬하여 리스트 형식으로 제공합니다.
-  ![일정 등록](https://github.com/user-attachments/assets/e91ecdfe-8f82-4960-85d7-ab0896d78b1a)
+  - ![일정 등록](https://github.com/user-attachments/assets/e91ecdfe-8f82-4960-85d7-ab0896d78b1a)
 
 
 ## 기술 스택
