@@ -3,7 +3,7 @@
 
 ## 팀원소개
 - [김회일](https://github.com/KimHoeil): 팀장, 미디어파이프, UI  
-- [김민중](https://github.com/MinjungKim5): 
+- [김민중](https://github.com/MinjungKim5): 프론트엔드, 모래시계 컴포넌트, UI, WebRTC
 - [구자건](https://github.com/AruJoy):
 - [황교준](https://github.com/kyo-hwang):
 - [손찬호](https://github.com/PenLoo98):
