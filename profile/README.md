@@ -25,9 +25,11 @@
 
 ## 기능 소개
 - **모래시계 타이머 + Todolist** : 모래시계 타이머로 빠른 시작을 할 수있고, 할 일과 연동하여 기록을 저장할 수 있습니다.
+  - ![카테고리 추가 1](https://github.com/user-attachments/assets/226813cc-908f-4549-9aed-051c548dd0f4)
+  - ![카태고리 추가 2](https://github.com/user-attachments/assets/37d6ec03-73ad-4f34-97b1-3cfb055e8dc1)
   - ![할일 추가](https://github.com/user-attachments/assets/732101de-c1c8-47fd-bd9a-acfc627deff8)
-  - ![할일 완료](https://github.com/user-attachments/assets/b4b11ad7-b58e-4fd1-9cf8-685491147e2a)
   - ![콘솔 todo list](https://github.com/user-attachments/assets/b34574a3-c67b-4d7f-be30-bf1922785f84)
+  - ![할일 완료](https://github.com/user-attachments/assets/b4b11ad7-b58e-4fd1-9cf8-685491147e2a)
   - ![모래시계 완료](https://github.com/user-attachments/assets/1bdb0ac9-2074-4f3b-9c0e-3c1517bb256f)
 
 - **같이하기 화상채팅방**: 같은 목표를 가진 사용자와 함께할 수 있는 실시간 화상 채팅방을 생성하고 참여할 수 있습니다.
@@ -38,8 +40,6 @@
   
 - **활동기록 통계 제공**: 카테고리별 일간/주간/월간 활동시간 통계를 제공하고, 졸음 및 자리이탈 시간을 계산해서 집중도를 제공합니다.
   - ![다이어리 ui](https://github.com/user-attachments/assets/78d52a79-b6b5-4f9b-a9a5-db2f9c12cea9)
-  - ![카테고리 추가 1](https://github.com/user-attachments/assets/226813cc-908f-4549-9aed-051c548dd0f4)
-  - ![카태고리 추가 2](https://github.com/user-attachments/assets/37d6ec03-73ad-4f34-97b1-3cfb055e8dc1)
   - ![통계1](https://github.com/user-attachments/assets/d1f3f3ea-4681-4fc6-94e4-94e731683815)
   - ![통계 2](https://github.com/user-attachments/assets/8539a2f3-0246-4e60-b554-0ae0de22080c)
 
