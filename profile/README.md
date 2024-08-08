@@ -41,6 +41,8 @@
   - ![다이어리 ui](https://github.com/user-attachments/assets/78d52a79-b6b5-4f9b-a9a5-db2f9c12cea9)
   - ![카테고리 추가 1](https://github.com/user-attachments/assets/226813cc-908f-4549-9aed-051c548dd0f4)
   - ![카태고리 추가 2](https://github.com/user-attachments/assets/37d6ec03-73ad-4f34-97b1-3cfb055e8dc1)
+  - ![통계1](https://github.com/user-attachments/assets/d1f3f3ea-4681-4fc6-94e4-94e731683815)
+  - ![통계 2](https://github.com/user-attachments/assets/8539a2f3-0246-4e60-b554-0ae0de22080c)
 
 - **AI 일지 작성**: 하루동안 한 일의 메모를 토대로 AI가 일지 작성을 보조해줍니다.
   - ![Ai 일지 작성1](https://github.com/user-attachments/assets/8ca422a2-30ff-4e8c-ab4e-22c1235da742)
