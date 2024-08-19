@@ -92,12 +92,8 @@ https://www.youtube.com/watch?v=iDxFz58kxjQ
 - 5주차(7.18~7.25): 폴리싱 및 추가 기능 구현
 
 ## 포스터
-![image](https://github.com/user-attachments/assets/69e93ecd-e037-4140-8fed-d3cd3ef48f17)
+[Uploading 모래시계플래너 포스터 bold 인쇄 (1).pdf…]()
 
-
-
-
-  
 
 
 
