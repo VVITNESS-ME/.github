@@ -5,7 +5,7 @@
 - [김회일](https://github.com/KimHoeil): 팀장, 미디어파이프, UI  
 - [김민중](https://github.com/MinjungKim5): 프론트엔드, 모래시계 컴포넌트, UI, WebRTC
 - [구자건](https://github.com/AruJoy): 프론트엔드: api 통신, 데이터 처리, 컴포넌트 로직 작성, 레이아웃 개선 / 백엔드: 함께하기, 업적 도메인 api 작성
-- [황교준](https://github.com/kyo-hwang):
+- [황교준](https://github.com/kyo-hwang): 백엔드, Entity Relationship Diagram 설계, 서버 API 구현 
 - [손찬호](https://github.com/PenLoo98):
 
 ## 목차
